@@ -4,7 +4,7 @@
 This project applies machine learning techniques to detect and analyze network traffic associated with the Mirai botnet using the N-BaIoT dataset. Yeahyeahyeahyeah
 
 ## Important Dates 
-- [ ] Progress report:  3/31/2026 @ 8:45am - 9am
+- [ ] Progress report:  3/31/2026 @ 8:40am - 8:50am
 - [ ] Presentation:  4/14/2026 @ 8:45 am - 9am
 - [ ] Written report due:  4/23/2026 
 
