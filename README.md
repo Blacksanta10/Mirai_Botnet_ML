@@ -11,8 +11,8 @@ This project applies machine learning techniques to detect and analyze network t
 ## Tech Stack
 - Languages: Python
 - Libraries:
+  - Scikit-learn 
   - numpy, pandas
-  - under construction??
 
 ## Dataset
 
@@ -23,6 +23,9 @@ Contains network traffic data from IoT devices under:
 Normal operation
 
 Mirai botnet attacks (e.g., scanning, flooding)
+
+## Scikit - learn Installation Guide
+[[Scikit-learn installation guide](https://scikit-learn.org/stable/install.html)]
 
 ## Disclaimer
 This project is for research purposes only. It does not involve deploying any real code with botnet systems. 
